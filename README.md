@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Ruben and I am a full stack developer</h1>
+
 <p align="center">
     <a href="https://angel.co/u/ruben-paz-chuspe" alt="Angel">
         <img src="https://img.shields.io/badge/Angel-Profile-lightgrey" /></a>
@@ -9,6 +11,7 @@
         <img src="https://img.shields.io/badge/Portfolio-rpazchuspe.haylli.net-red" /></a>
 </p>
 
+<br/>
 
 <b> Hi, I'm Ruben and I am a full stack developer.</b> I just graduated from Microverse, a full-time remote web development program, after seven months where I  created amazing projects using best programming practices, soft skills like cross-cultural communication, creativity to solve problems, writing skills, working through conflict, time management, and pair programming with international students. Before joining Microverse, I worked in a financial banking company in Peru as a full stack developer, designing and developing multiple microservices for accounting reports processing millions of records, identified potential improvements, and developed software automation. I also developed some other freelance projects for local companies designing websites and built some web applications.
 
