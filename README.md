@@ -18,13 +18,12 @@ I'm looking for opportunities where I can keep growing my programming skills in 
 
 <h2>More about me</h2>
 
-<br/>
 
 Like a developer I love challenges and I'm looking to improve my programming skills.
 
 <br/>
 
- &#10023;   Ruby &#10023;   Rails  &#10023;  Javascript &#10023;  React & Redux &#10023;   HTML &#10023;    CSS &#10023;   Java &#10023;   c# &#10023;   ASP-Net
+ &#10003; Ruby  &#10003; Rails  &#10003; Javascript &#10003;  React & Redux &#10003;   HTML &#10003; CSS &#10003; Java &#10003; c# &#10003; ASP-Net
 
 <br/>
 
