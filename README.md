@@ -22,15 +22,9 @@ I'm looking for opportunities where I can keep growing my programming skills in 
 
 Like a developer I love challenges and I'm looking to improve my programming skills.
 
- + Ruby
- + Rails 
- + Javascript
- + React & Redux
- + HTML
- + CSS
- + Java
- + c#
- + ASP-Net
+<br/>
+
+ &#10023;   Ruby &#10023;   Rails  &#10023;  Javascript &#10023;  React & Redux &#10023;   HTML &#10023;    CSS &#10023;   Java &#10023;   c# &#10023;   ASP-Net
 
 <br/>
 
