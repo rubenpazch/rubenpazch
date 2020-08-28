@@ -16,6 +16,28 @@ I'm looking for opportunities where I can keep growing my programming skills in 
 
 <br/>
 
+<h2>More about me</h2>
+
+<br/>
+
+Like a developer I love challenges and I'm looking to improve my programming skills.
+
+ + Ruby
+ + Rails 
+ + Javascript
+ + React & Redux
+ + HTML
+ + CSS
+ + Java
+ + c#
+ + ASP-Net
+
+<br/>
+
+<h2>GitHub stats</h2>
+
+<br/>
+
 
 ![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=rubenpazch&show_icons=true&theme=dracula)
 
