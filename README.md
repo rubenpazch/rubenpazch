@@ -16,6 +16,11 @@ I'm looking for opportunities where I can keep growing my programming skills in 
 
 <br/>
 
-[![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenpazch)](https://github.com/rubenpazch/github-readme-stats)
+
+![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=rubenpazch&show_icons=true&theme=dracula)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenpazch&layout=compact)](https://github.com/rubenpazch/github-readme-stats)
 
 
