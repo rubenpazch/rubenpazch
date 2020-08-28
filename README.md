@@ -27,6 +27,13 @@ Like a developer I love challenges and I'm looking to improve my programming ski
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenpazch&layout=compact)](https://github.com/rubenpazch/github-readme-stats)
+
+
+
+
+<br/>
+
 <h2>GitHub stats</h2>
 
 <br/>
@@ -35,7 +42,3 @@ Like a developer I love challenges and I'm looking to improve my programming ski
 ![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=rubenpazch&show_icons=true&theme=dracula)
 
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenpazch&layout=compact)](https://github.com/rubenpazch/github-readme-stats)
-
-
