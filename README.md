@@ -13,18 +13,12 @@
 
 <br/>
 
-<b> Hi, I'm Ruben and I am a full stack developer.</b> I just graduated from Microverse, a full-time remote web development program, after seven months where I created amazing projects using best programming practices. In addition to creating more than 40+ projects, I also developed skills such as cross-cultural communication, creativity, conflict resolution, time management, and pair programming with international students. Before joining Microverse, I worked in a financial banking company in Peru as a full stack developer, designing and developing software automation for accounting reports which processed millions of records. I also developed some other freelance projects for local companies designing websites and built some web applications.
+<b> Hi, I'm Ruben and I am a full stack developer.</b> I just graduated from Microverse, a full-time remote web development program, after seven months where I created amazing projects using best programming practices. In addition to creating more than 40+ projects, I also developed skills such as cross-cultural communication, creativity, conflict resolution, time management, and pair programming with international students. Before joining Microverse, I worked in a financial banking company in Peru as a full stack developer, designing and developing software automation for accounting reports which processed millions of records. I also developed some other freelance projects for local companies designing and building some web applications.
 
-I'm looking for opportunities where I can keep growing my programming skills in the EdTech space and I'd love to keep in touch. Do you have a LinkedIn or an AngelList profile you can share so we can connect there?”
-
-<br/>
-
-<h2>More about me</h2>
-
-
-Like a developer I love challenges and I'm looking to improve my programming skills.
+Available for Hire or Looking for New Opportunities
 
 <br/>
+
 
  &#10003; Ruby  &#10003; Rails  &#10003; Javascript &#10003;  React & Redux &#10003;   HTML &#10003; CSS &#10003; Java &#10003; c# &#10003; ASP-Net
 
