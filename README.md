@@ -29,6 +29,7 @@
 
 
 
+
 <br/>
 
 <h2>GitHub stats</h2>
@@ -39,3 +40,6 @@
 ![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=rubenpazch&show_icons=true&theme=dracula)
 
 <br/>
+
+
+<a href="https://stackoverflow.com/users/8272786/ruben-paz-chuspe"><img src="https://stackoverflow.com/users/flair/8272786.png" width="208" height="58" alt="profile for Ruben Paz Chuspe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ruben Paz Chuspe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
