@@ -43,3 +43,6 @@
 
 
 <a href="https://stackoverflow.com/users/8272786/ruben-paz-chuspe"><img src="https://stackoverflow.com/users/flair/8272786.png" width="208" height="58" alt="profile for Ruben Paz Chuspe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ruben Paz Chuspe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
