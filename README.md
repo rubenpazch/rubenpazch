@@ -44,6 +44,3 @@
 
 <a href="https://stackoverflow.com/users/8272786/ruben-paz-chuspe"><img src="https://stackoverflow.com/users/flair/8272786.png" width="208" height="58" alt="profile for Ruben Paz Chuspe at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ruben Paz Chuspe at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rubenpch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pe.linkedin.com/in/rubenpch?trk=profile-badge">Ruben Paz Chuspe</a></div>
-              
