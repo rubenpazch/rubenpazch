@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ruben and I am a full stack developer</h1>
 
 <p align="center">
-    <a href="https://angel.co/u/ruben-paz-chuspe" alt="Angel">
+    <a href="https://angel.co/u/rubenpazch" alt="Angel">
         <img src="https://img.shields.io/badge/Angel-Profile-lightgrey" /></a>
-    <a href="https://twitter.com/ChuspePaz" alt="Twitter">
+    <a href="https://twitter.com/rubenpazch" alt="Twitter">
         <img src="https://img.shields.io/badge/Twitter-Profile-blue" /></a>
     <a href="https://www.linkedin.com/in/rubenpch/" alt="Linkedin">
         <img src="https://img.shields.io/badge/Linkedin-Profile-blue" /></a>
