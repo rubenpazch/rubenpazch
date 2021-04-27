@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ruben and I am a full stack developer</h1>
+<h1 align="center">Hi, I'm Ruben and I am a full-stack developer</h1>
 
 <p align="center">
     <a href="https://angel.co/u/rubenpazch" alt="Angel">
