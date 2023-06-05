@@ -5,9 +5,9 @@
         <img src="https://img.shields.io/badge/Angel-Profile-lightgrey" /></a>
     <a href="https://twitter.com/rubenpazch" alt="Twitter">
         <img src="https://img.shields.io/badge/Twitter-Profile-blue" /></a>
-    <a href="https://www.linkedin.com/in/rubenpch/" alt="Linkedin">
+    <a href="https://www.linkedin.com/in/rubenpazch/" alt="Linkedin">
         <img src="https://img.shields.io/badge/Linkedin-Profile-blue" /></a>
-    <a href="http://rubenpazchuspe.me/" alt="Ruben Paz Chuspe">
+    <a href="http://rubenpazch.github.io/" alt="Ruben Paz Chuspe">
         <img src="https://img.shields.io/badge/Personal%20Site-rubenpazch.github.io-green" /></a>
 </p>
 
