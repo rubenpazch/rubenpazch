@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ruben and I am a full-stack developer</h1>
+<h1 align="center">Hi, I'm Ruben and I am a Software Engineer</h1>
 
 <p align="center">
     <a href="https://angel.co/u/rubenpazch" alt="Angel">
@@ -13,7 +13,7 @@
 
 <br/>
 
-<b> Hi, I'm Ruben and I am a Full-Stack developer.</b> I just graduated from Microverse, a full-time remote web development program, after seven months where I created amazing projects using best programming practices. In addition to creating more than 40+ projects, I also developed skills such as cross-cultural communication, creativity, conflict resolution, time management, and pair programming with international students. Before joining Microverse, I worked in a financial banking company in Peru as a full stack developer, designing and developing software automation for accounting reports which processed millions of records. I also developed some other freelance projects for local companies designing and building some web applications.
+<b> Hi, I'm Ruben and I am a Software Engineer.</b> .
 
 <br/>
 
