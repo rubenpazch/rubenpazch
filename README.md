@@ -13,12 +13,24 @@
 
 <br/>
 
-<b> Hi, I'm Ruben and I am a Software Engineer.</b> .
-
+<b> Full Stack Developer | 4+ Years of Experience | React & Ruby on Rails | Remote-First Mindset</b> .
 <br/>
 
+I’m a passionate full-stack developer with 4+ years of experience building scalable web applications using React and Ruby on Rails. My career has been shaped by working with US-based companies, where I’ve contributed to both frontend and backend development, ensuring high-quality code and user-focused solutions.
 
- &#10003; Ruby  &#10003; Rails  &#10003; Javascript &#10003;  React & Redux &#10003;   HTML &#10003; CSS &#10003; Java &#10003; c# &#10003; ASP-Net
+I thrive in agile environments, collaborating with teams across different time zones and continuously improving products. My expertise spans from crafting intuitive UIs to optimizing backend performance, always with a focus on maintainability and best practices.
+
+<b>Technical Skills</b>
+
+<b>Frontend:</b> React, Redux, JavaScript, TypeScript, HTML5, CSS3<br/>
+<b>Backend:</b> Ruby, Rails, Node.js<br/>
+<b>Database:</b> PostgreSQL, MySQL<br/>
+<b>Tools & Methods:</b> Git, GitHub, RSpec, TDD, CI/CD, Chrome DevTools<br/>
+<b>Professional Skills:</b> Remote Collaboration, Pair Programming, Problem-Solving, Mentoring<br/>
+<br/>
+🚀 Let’s connect! I’m open to opportunities with global tech products and startups.<br/>
+📧 Email: rubenpazch@gmail.com<br/>
+🌐 Portfolio: http://rubenpazchuspe.me/<br/>
 
 <br/>
 
