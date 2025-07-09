@@ -30,7 +30,7 @@ I thrive in agile environments, collaborating with teams across different time z
 <br/>
 🚀 Let’s connect! I’m open to opportunities with global tech products and startups.<br/>
 📧 Email: rubenpazch@gmail.com<br/>
-🌐 Portfolio: http://rubenpazchuspe.me/<br/>
+🌐 Portfolio: http://rubenpazchuspe.me/](https://rubenpazch.github.io/<br/>
 
 <br/>
 
